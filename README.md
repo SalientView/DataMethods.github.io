@@ -8,4 +8,6 @@ Worried about the color scheme for your drawing?
 I have sorted out all the palette in Python, so that you can clearly see the name and effect of each color. 
 See more details by downloading the PDF《[palette_all](https://github.com/SalientView/palette/blob/master/palette_all.pdf)》.
 
-![](https://imgkr.cn-bj.ufileos.com/a10552fd-560a-48fe-a68d-72d2c9ce3a22.png)
+
+
+<img src='https://imgkr.cn-bj.ufileos.com/a10552fd-560a-48fe-a68d-72d2c9ce3a22.png' width=80%>
