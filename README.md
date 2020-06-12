@@ -1,4 +1,4 @@
-# python palette
+# Palette for python
 
 还在为作图的配色发愁？<br>
 我整理示了python所有的自带调色板，这样可以很方便地查看每种配色的名称和效果.<br>
